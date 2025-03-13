@@ -2,11 +2,16 @@ using UnityEngine;
 
 public class Projectile : MonoBehaviour
 {
-    [SerializeField] private float _speed;
+    //[SerializeField] private float _speed;
     [SerializeField] private int damage;
     public void Update()
     {
-        this.transform.Translate(this.transform.forward * _speed * Time.deltaTime);
+
+    /*
+        Ho commentato questa parte di codice per dare un effetto più naturale al proiettile direttmente allo spawn
+     */
+
+      //  this.transform.Translate(this.transform.forward * _speed * Time.deltaTime);
         
     }
 

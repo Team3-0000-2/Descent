@@ -23,6 +23,7 @@ public class Movement : MonoBehaviour
         yaw += Input.GetAxis("Mouse X") * mouseSensitivity;
         pitch -= Input.GetAxis("Mouse Y") * mouseSensitivity;
         pitch = Mathf.Clamp(pitch, -90f, 90f); // Evita capovolgimenti
+       
 
         transform.rotation = Quaternion.Euler(pitch, yaw, 0f);
     }
