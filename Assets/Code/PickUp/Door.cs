@@ -12,7 +12,10 @@ public class Door : MonoBehaviour
     [SerializeField] private Animator openDoor;
 
 
-
+    private void Awake()
+    {
+        _inventoryMananger = GameObject.Find("Manager").GetComponent<InventoryMananger>();
+    }
     private void OnTriggerEnter(Collider other)
     {
         //Debug.Log("collisione");

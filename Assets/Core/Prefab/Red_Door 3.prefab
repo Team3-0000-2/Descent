@@ -515,7 +515,7 @@ Light:
   m_Enabled: 1
   serializedVersion: 11
   m_Type: 0
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 0, b: 0.034307003, a: 1}
   m_Intensity: 300
   m_Range: 14
   m_SpotAngle: 58.605526
@@ -636,7 +636,7 @@ Light:
   m_Enabled: 1
   serializedVersion: 11
   m_Type: 0
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 0, b: 0.034307003, a: 1}
   m_Intensity: 300
   m_Range: 14
   m_SpotAngle: 58.605526
@@ -757,7 +757,7 @@ Light:
   m_Enabled: 1
   serializedVersion: 11
   m_Type: 0
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 0, b: 0.034307003, a: 1}
   m_Intensity: 300
   m_Range: 14
   m_SpotAngle: 58.605526
@@ -848,7 +848,7 @@ GameObject:
   - component: {fileID: 6964764574779011489}
   - component: {fileID: 6384149098249671294}
   m_Layer: 0
-  m_Name: Door
+  m_Name: Red_Door 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -882,7 +882,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9494ffeefda5c0643aee780f5f41d4e7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  doorType: 3
+  doorType: 0
   _inventoryMananger: {fileID: 0}
   open: 0
   openDoor: {fileID: 6384149098249671294}
@@ -972,7 +972,7 @@ Light:
   m_Enabled: 1
   serializedVersion: 11
   m_Type: 0
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 0, b: 0.034307003, a: 1}
   m_Intensity: 300
   m_Range: 14
   m_SpotAngle: 58.605526

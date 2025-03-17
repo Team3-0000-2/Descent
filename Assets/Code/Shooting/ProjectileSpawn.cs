@@ -16,14 +16,14 @@ public class ProjectileSpawn : MonoBehaviour
         GameObject bullet = Instantiate(projectile, projectileSpawn[contatore].position, projectileSpawn[contatore].rotation);
         Rigidbody _rb = bullet.GetComponent<Rigidbody>();
         _rb.AddForce(projectileSpawn[contatore].forward * bulletForce, ForceMode.Impulse);
-        if (contatore == 1)
+        if (contatore == projectileSpawn.Length-1)
             contatore = 0;
         else
             contatore = 1;
     }
     public void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Mouse0))
+        if (Input.GetKeyDown(KeyCode.Mouse0) && this.gameObject.CompareTag("Player"))
         {
             Shoot();
         }
