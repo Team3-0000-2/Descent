@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class InventoryMananger : MonoBehaviour
 {
-    //type 0 => Ammo - 2 => Score - 1 => keys (0 => red, 1 => blue, 2 => yellow)
+    //type 0 => Ammo - 2 => Score - 1 => keys (0 => red, 1 => blue, 2 => yellow, 3 => empty)
 
     [Header("--- Ammo --- ")]
     [SerializeField]
