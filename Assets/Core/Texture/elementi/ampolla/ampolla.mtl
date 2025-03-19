@@ -1,0 +1,1780 @@
+newmtl KB3D_SecretLab_Native:KB3D_LAB_AC_E_MainSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_AC_E_MainSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Barrel_A_MainSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Barrel_A_MainSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Barrel_A_MainSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Bed_C_MainSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Bed_C_MainSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Bed_C_MainSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Bed_C_MainSG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Bed_C_MainSG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Bed_C_MainSG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Bed_C_MainSG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Bed_C_MainSG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgLg_H_CartSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgLg_H_CartSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgLg_H_MainSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgLg_H_MainSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgLg_H_MainSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgLg_H_MainSG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgLg_H_MainSG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgLg_H_MainSG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgLg_H_MainSG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgLg_H_MainSG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgLg_H_MainSG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgLg_H_MainSG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgLg_H_MainSG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgLg_H_MainSG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgLg_H_MainSG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgLg_H_MainSG13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgLg_H_MainSG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgLg_H_MainSG15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgLg_H_MainSG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgLg_H_MainSG17
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgLg_H_MainSG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgLg_H_MainSG19
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgLg_H_MainSG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_H_CartSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_H_CartSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_H_CartSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_H_CartSG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_H_CartSG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_H_ChairSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_H_ChairSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_H_DeskSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_H_DeskSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_H_DeskSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_H_DeskSG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_H_DeskSG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_H_DeskSG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_H_DeskSG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_H_DeskSG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_H_DeskSG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_H_LabEquipmentASG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_H_LabEquipmentASG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_H_LabEquipmentBSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_H_LabEquipmentCSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_J_BottleSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_J_CardboardBoxSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_J_CardboardBoxSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_J_DeskSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_J_DeskSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_J_DocumentsSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_J_DocumentsSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_J_GeneratorSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_J_GeneratorSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_J_GeneratorSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_J_GeneratorSG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_J_GeneratorSG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_J_GeneratorSG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_J_GeneratorSG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_J_GeneratorSG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_J_GeneratorSG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_J_GeneratorSG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_J_GeneratorSG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_J_GeneratorSG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_J_LabEquipmentASG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_J_LabEquipmentASG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_J_LabEquipmentASG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_J_PlantCanisterSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_J_PlantCanisterSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_J_PlasticBoxSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_BldgSm_J_ToolsSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Cabinet_D_MainSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Cabinet_D_MainSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Cabinet_E_MainSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Cabinet_E_MainSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Cabinet_E_MainSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Cart_A_MainSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Cart_A_MainSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Cart_A_MainSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Cart_C_MainSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Cart_C_MainSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Cart_C_MainSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Computer_D_MainSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Computer_D_MainSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Computer_F_MainSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Computer_F_MainSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Computer_F_MainSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Computer_F_MainSG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Computer_F_MainSG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Computer_F_MainSG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Desk_A_MainSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Desk_A_MainSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Desk_A_MainSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Door_A_MainSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Door_A_MainSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Door_A_MainSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Door_A_MainSG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_ElectricBox_E_MainSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_ElectricBox_E_MainSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_ElectricBox_E_MainSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_ElectricBox_E_MainSG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_ElectricBox_E_MainSG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_ElectricBox_E_MainSG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_ElectricBox_E_MainSG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_ElectricBox_E_MainSG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_ElectricBox_E_MainSG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_ElectricBox_E_MainSG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_ElectricBox_E_MainSG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_ElectricBox_E_MainSG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_ElectricBox_E_MainSG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_ElectricBox_E_MainSG13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_ElectricBox_E_MainSG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Electronics_C_MainSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Electronics_C_MainSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Electronics_C_MainSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Electronics_C_MainSG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Electronics_C_MainSG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Electronics_C_MainSG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Electronics_C_MainSG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Electronics_C_MainSG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Electronics_C_MainSG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Electronics_D_MainSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Electronics_D_MainSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Electronics_D_MainSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Electronics_D_MainSG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Electronics_G_MainSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Electronics_G_MainSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Electronics_G_MainSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Electronics_G_MainSG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Electronics_G_MainSG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Electronics_G_MainSG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Electronics_K_MainSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Electronics_M_MainSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Electronics_M_MainSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Iv_A_MainSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Iv_A_MainSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Iv_A_MainSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Iv_A_MainSG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Iv_A_MainSG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Iv_A_MainSG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Iv_A_MainSG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_LabEquipement_C_MainSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_LabEquipement_C_MainSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_LabEquipement_C_MainSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_LabEquipement_C_MainSG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_LabEquipement_C_MainSG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_LabEquipement_C_MainSG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_LabEquipement_C_MainSG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_LabEquipement_C_MainSG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_LabEquipement_C_MainSG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_LabEquipement_C_MainSG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_LabEquipement_C_MainSG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_LabEquipement_C_MainSG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_LabEquipement_C_MainSG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_LabEquipement_C_MainSG13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_LabEquipement_C_MainSG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_LabEquipement_C_MainSG15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_LabEquipement_C_MainSG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_LabEquipement_D_MainSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_LabEquipement_D_MainSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_LabEquipement_D_MainSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_LabEquipement_D_MainSG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_LabEquipement_D_MainSG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_LabEquipement_D_MainSG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_LabEquipement_D_MainSG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_LabEquipement_D_MainSG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_LabEquipement_F_MainSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_LabEquipement_F_MainSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_LabEquipement_F_MainSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_LabEquipement_F_MainSG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_LabEquipement_F_MainSG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_LabEquipement_F_MainSG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_LabEquipement_F_MainSG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_LabEquipement_F_MainSG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_LabEquipement_I_MainSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_LabEquipement_J_MainSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_LabEquipement_J_MainSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Ladder_A_MainSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Ladder_A_MainSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Ladder_A_MainSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Ladder_A_MainSG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Ladder_A_MainSG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Ladder_A_MainSG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Pipe_A_MainSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Pipe_A_MainSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Pipe_A_MainSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Pipe_A_MainSG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Pipe_B_MainSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Pipe_B_MainSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Pipe_B_MainSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Robot_B_MainSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Robot_B_MainSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Robot_B_MainSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Robot_B_MainSG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Robot_B_MainSG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_StopButton_A_MainSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_StopButton_A_MainSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Tank_I_MainSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Tank_I_MainSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Tank_I_MainSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Tank_I_MainSG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Tank_J_MainSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Tank_J_MainSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Tank_J_MainSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Tank_J_MainSG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Tank_J_MainSG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Whiteboard_A_MainSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Whiteboard_A_MainSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Whiteboard_A_MainSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl KB3D_SecretLab_Native:KB3D_LAB_Whiteboard_A_MainSG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 298.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl lambert1SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
