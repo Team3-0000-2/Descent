@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 public class HealthManager : MonoBehaviour
@@ -6,6 +7,7 @@ public class HealthManager : MonoBehaviour
     [SerializeField] private int maxHealth;
     [SerializeField] private int currentHealth;
 
+    public Action<int> OnHealthChange;
 
     public void AddDamage(int damage)
     {
@@ -20,11 +22,15 @@ public class HealthManager : MonoBehaviour
             default:
                 break;
 
+
+
         }
 
-        if (currentHealth <= 0)
-        {
-            Destroy(this.gameObject);
-        }
+        OnHealthChange(damage);
+
+        //if (currentHealth <= 0)
+        //{
+            //Destroy(this.gameObject);
+        //}
     }
 } 

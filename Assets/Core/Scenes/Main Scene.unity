@@ -2723,7 +2723,10 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 4048824603767815355, guid: 33abc9a873f5e17419d6c747c3ccf54c, type: 3}
-      insertIndex: 7
+      insertIndex: 4
+      addedObject: {fileID: 2071333739}
+    - targetCorrespondingSourceObject: {fileID: 4048824603767815355, guid: 33abc9a873f5e17419d6c747c3ccf54c, type: 3}
+      insertIndex: 8
       addedObject: {fileID: 2071333738}
     - targetCorrespondingSourceObject: {fileID: 7327763529965847581, guid: 33abc9a873f5e17419d6c747c3ccf54c, type: 3}
       insertIndex: -1
@@ -14078,6 +14081,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pauseMenu: {fileID: 18020997}
+--- !u!114 &2071333739
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 396051857}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cc89db4069c931478fb4f891a0b69f1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!43 &2090142878
 Mesh:
   m_ObjectHideFlags: 0
