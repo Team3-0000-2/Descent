@@ -27,6 +27,10 @@ public class Collectibles : MonoBehaviour
                 _inventoryManager.SetScore(quantityToAdd);
                 break;
         }
+
+        Debug.Log("disattivazione key");
+        //gameObject.SetActive(false);
+
     }
 
 }

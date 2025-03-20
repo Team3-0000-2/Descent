@@ -54,5 +54,5 @@ public class Pause : MonoBehaviour
     {
         Application.Quit();
     }
-
+    
 }
