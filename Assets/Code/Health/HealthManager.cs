@@ -9,17 +9,9 @@ public class HealthManager : MonoBehaviour
     [SerializeField] private int maxHealth;
     [SerializeField] private int currentHealth;
 
-    [Header("--- Game Over ---")]
-    [SerializeField] public GameObject gameOver; //to link the game over canva
-    public static bool isDead;
-
+    [SerializeField] private StartTimer _st;
 
     public Action<int> OnHealthChange;
-
-    public void Start()
-    {
-        gameOver.SetActive(false);
-    }
 
     public void AddDamage(int damage)
     {
@@ -35,7 +27,18 @@ public class HealthManager : MonoBehaviour
                 }
                 break;
             case 1: // se nemico
-                currentHealth -= damage;
+                if (currentHealth > 0)
+                {
+                    currentHealth -= damage;
+                }
+                else
+                {
+                    if (gameObject.CompareTag("Reactor"))
+                    {
+                        _st._reactorIsBroken = true;
+                    }
+                    Destroy(this.gameObject);
+                }
                 break;
             default:
                 break;

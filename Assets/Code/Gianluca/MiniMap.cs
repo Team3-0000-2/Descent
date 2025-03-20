@@ -8,6 +8,7 @@ public class MiniMap : MonoBehaviour
     [SerializeField] private float _angle;
     [SerializeField] private bool _canRotate;
     [SerializeField] private Movement _Movement;
+    [SerializeField] private Animator _ac;
 
 
 
@@ -20,7 +21,8 @@ public class MiniMap : MonoBehaviour
         }
         if (_canRotate)
         {
-            _Movement.enabled = false;
+            _Movement._canMove = false;
+            _ac.SetBool("ToMiniMap", true);
             float _moveForward = (Input.GetKey(KeyCode.Q) ? 1 : 0) - (Input.GetKey(KeyCode.E) ? 1 : 0);
             this.transform.Translate(new Vector3(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"), _moveForward));
            // Debug.Log("H: " + Input.GetAxis("Horizontal"));
@@ -28,7 +30,8 @@ public class MiniMap : MonoBehaviour
         }
         else
         {
-            _Movement.enabled = true;
+            _Movement._canMove = true;
+            _ac.SetBool("ToMiniMap", false);
         }
     }
 }

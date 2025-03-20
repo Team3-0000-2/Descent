@@ -6,7 +6,7 @@ public class GameOver : MonoBehaviour
     
     public void GoToMainMenu()
     { 
-        SceneManager.LoadScene(0); //change the scene number
+        SceneManager.LoadScene("Game Over"); //change the scene number
     }
 
     public void QuitGame()
