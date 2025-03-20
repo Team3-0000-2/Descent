@@ -23,6 +23,7 @@ public class IA : MonoBehaviour
     [SerializeField] private Status _status;
     [SerializeField] private RaycastHit _hit;
     [SerializeField] private ProjectileSpawn _shoot;
+    [SerializeField] private Animator _ac;
 
 
     enum Status : byte
@@ -108,6 +109,7 @@ public class IA : MonoBehaviour
     private void Chase()
     {
         Debug.Log("Chasing!");
+        _ac.SetBool("isChasing", true);
         if (_canShoot)
             StartCoroutine(Shoot());
     }
