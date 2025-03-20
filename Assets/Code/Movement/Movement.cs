@@ -4,12 +4,13 @@ public class Movement : MonoBehaviour
 {
     public float moveSpeed = 10f;
     public float rotationSpeed = 90f;
-    public float mouseSensitivity = 2f;
+    public float mouseSensitivity = 5f;
     public CharacterController _cc;
 
 
     private float yaw = 0f;
     private float pitch = 0f;
+    private float roll = 0f;
 
     void Update()
     {
@@ -26,9 +27,12 @@ public class Movement : MonoBehaviour
         yaw += Input.GetAxis("Mouse X") * mouseSensitivity;
         pitch -= Input.GetAxis("Mouse Y") * mouseSensitivity;
         pitch = Mathf.Clamp(pitch, -90f, 90f); // Evita capovolgimenti
-       
 
-        transform.rotation = Quaternion.Euler(pitch, yaw, 0f);
+        // Rotazione con Q ed E
+        
+
+        roll += ((Input.GetKey(KeyCode.Q) ? 1 : 0) - (Input.GetKey(KeyCode.E) ? 1 : 0)) * rotationSpeed * Time.deltaTime;
+        transform.rotation = Quaternion.Euler(pitch, yaw, roll);
     }
 
 }
