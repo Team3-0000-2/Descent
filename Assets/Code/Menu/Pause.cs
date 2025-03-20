@@ -1,11 +1,11 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using System;
 
 public class Pause : MonoBehaviour
 {
     [SerializeField] public GameObject pauseMenu;
     public static bool isPaused;
-
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
