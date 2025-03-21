@@ -8,17 +8,25 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2378630394615854625, guid: 08c039e707f249f4c9eb313c7f0e9e48, type: 3}
+      propertyPath: maxHealth
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 2378630394615854625, guid: 08c039e707f249f4c9eb313c7f0e9e48, type: 3}
+      propertyPath: currentHealth
+      value: 100
+      objectReference: {fileID: 0}
     - target: {fileID: 4843801432326918199, guid: 08c039e707f249f4c9eb313c7f0e9e48, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 37.881035
+      value: 45.894585
       objectReference: {fileID: 0}
     - target: {fileID: 4843801432326918199, guid: 08c039e707f249f4c9eb313c7f0e9e48, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 26.33
+      value: 23.45
       objectReference: {fileID: 0}
     - target: {fileID: 4843801432326918199, guid: 08c039e707f249f4c9eb313c7f0e9e48, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -48.120335
+      value: -26.220266
       objectReference: {fileID: 0}
     - target: {fileID: 4843801432326918199, guid: 08c039e707f249f4c9eb313c7f0e9e48, type: 3}
       propertyPath: m_LocalRotation.w
@@ -68,6 +76,10 @@ PrefabInstance:
       propertyPath: _self
       value: 
       objectReference: {fileID: 8060117250632129518}
+    - target: {fileID: 7098777462042744434, guid: 08c039e707f249f4c9eb313c7f0e9e48, type: 3}
+      propertyPath: _waypoints.Array.size
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 6732002144910003683, guid: 08c039e707f249f4c9eb313c7f0e9e48, type: 3}

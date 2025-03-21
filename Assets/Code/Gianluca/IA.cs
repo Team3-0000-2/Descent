@@ -35,7 +35,7 @@ public class IA : MonoBehaviour
     private void Awake()
     {
         _self = this.transform;
-        _target = _waypoints[0];
+        _target = null;
         _status = Status.Patroll;
         _cc = GetComponent<CharacterController>();
         _shoot = GetComponent<ProjectileSpawn>();
@@ -44,6 +44,8 @@ public class IA : MonoBehaviour
 
     private void Update()
     {
+        if (_target != null)
+        {
         _self.LookAt(_target);
         //Change in something better
         _distanceToTarget = Vector3.Distance(_self.position, _target.position);
@@ -81,6 +83,7 @@ public class IA : MonoBehaviour
         }
         if (_status == Status.Chasing)
             Chase();
+        }
     }
 
     private void OnTriggerStay(Collider other)
@@ -99,11 +102,11 @@ public class IA : MonoBehaviour
     }
     private void Patroll()
     {
-        if (_waypointsIndex < _waypoints.Length - 1)
+       /* if (_waypointsIndex < _waypoints.Length - 1)
             _waypointsIndex++;
         else
             _waypointsIndex = 0;
-        _target = _waypoints[_waypointsIndex];
+        _target = _waypoints[_waypointsIndex];*/
     }
 
     private void Chase()

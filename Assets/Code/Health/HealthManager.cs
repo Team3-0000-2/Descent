@@ -44,7 +44,7 @@ public class HealthManager : MonoBehaviour
                 break;
         }
 
-        OnHealthChange(damage);
+        //OnHealthChange(damage);
 
         
     }

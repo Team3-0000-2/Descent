@@ -6,6 +6,8 @@ TagManager:
   tags:
   - enemy
   - Collectibles
+  - SF_Door
+  - Reactor
   layers:
   - Default
   - TransparentFX
